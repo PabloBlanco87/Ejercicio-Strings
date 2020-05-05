@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\Ejercicio de cadenas\Ejercicio de cadenas\bin\Debug\Ejercicio de cadenas.exe.config
+C:\Users\Pablo\source\repos\Ejercicio de cadenas\Ejercicio de cadenas\bin\Debug\Ejercicio de cadenas.exe
+C:\Users\Pablo\source\repos\Ejercicio de cadenas\Ejercicio de cadenas\bin\Debug\Ejercicio de cadenas.pdb
+C:\Users\Pablo\source\repos\Ejercicio de cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\Ejercicio de cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Ejercicio de cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.exe
+C:\Users\Pablo\source\repos\Ejercicio de cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.pdb
+C:\Users\Pablo\source\repos\Act 2 Cadenas\Ejercicio de cadenas\bin\Debug\Ejercicio de cadenas.exe.config
+C:\Users\Pablo\source\repos\Act 2 Cadenas\Ejercicio de cadenas\bin\Debug\Ejercicio de cadenas.exe
+C:\Users\Pablo\source\repos\Act 2 Cadenas\Ejercicio de cadenas\bin\Debug\Ejercicio de cadenas.pdb
+C:\Users\Pablo\source\repos\Act 2 Cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\Act 2 Cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Act 2 Cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.exe
+C:\Users\Pablo\source\repos\Act 2 Cadenas\Ejercicio de cadenas\obj\Debug\Ejercicio de cadenas.pdb
